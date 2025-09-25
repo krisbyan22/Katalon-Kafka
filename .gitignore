@@ -1,0 +1,30 @@
+# Build
+bin/
+build/
+target/
+
+# Reports
+Reports/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project

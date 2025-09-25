@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "7D9B49ECCA2C32C56812E3A8229BE662",
+  "keywordClasses": [
+    {
+      "name": "kafkaUtils.ParallelKafkaConsumer",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

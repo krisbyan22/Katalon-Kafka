@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8120699D7CC5D09604607F7829783526",
+  "keywordClasses": [
+    {
+      "name": "kafka.KafkaProducer",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A961FA8693EA8C5E69E937BD85A013C2",
+  "keywordClasses": [
+    {
+      "name": "kafka.Kafka",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

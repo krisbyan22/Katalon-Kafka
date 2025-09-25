@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "69BFA33E6C6F185E28BB886E02FB4722",
+  "keywordClasses": [
+    {
+      "name": "kafkaUtils.KafkaProducerKeyword",
+      "keywordMethods": [
+        {
+          "name": "sendMessage",
+          "parameters": [
+            {
+              "name": "topic",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "message",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

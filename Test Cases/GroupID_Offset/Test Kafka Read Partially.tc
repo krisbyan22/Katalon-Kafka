@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Kafka Read Partially</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d01065f1-c06d-404c-af9c-8ee3edcef158</testCaseGuid>
+</TestCaseEntity>

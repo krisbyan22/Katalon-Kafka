@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Kafka Producer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a65f963a-bb99-4c2c-a25e-a3d1cab74a9d</testCaseGuid>
+</TestCaseEntity>
